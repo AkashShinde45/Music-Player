@@ -1,0 +1,77 @@
+[
+
+  {
+    "id": 1,
+    "name": "Apana Bana le Piya",
+    "artist": ["Arjit Singh","Sachin-Jigar"],
+    "img": "media/images/Apana-Banale.jpg",
+    "genre": "Classical",
+    "source": "media/song/Apna-Bana-Le.mp3"
+  },
+  
+    {
+      "id": 2,
+      "name": "Dolby Walya",
+      "artist": "Ajay-Atul",
+      "img": "media/images/Jau-Dya-Na-Balasaheb.jpg",
+      "genre": "Marathi",
+      "source": "media/song/Dolby Walya.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Shivba Raja",
+      "artist":["Avadhoot Gandhi","Devdutta Manisha Baji"],
+      "img": "media/images/Shivba-raja.jpg",
+      "genre": "Marathi",
+      "source": "media/song/Shivba-Raja.mp3"
+    },
+  
+    {
+        "id": 4,
+        "name": "Teri Baaton Mein Aisa Uljha Jiya",
+        "artist": ["Raghav","Tanishk Bagchi" , "Asees Kaur"],
+        "img": "media/images/Teri-baaton-mai.jpg",
+        "genre": "Bollywood",
+        "source": "media/song/Teri Baaton main.mp3"
+      },
+     
+      {
+        "id":5,
+        "name": "Bappa Morya",
+        "artist": ["Sonu Nigam"],
+        "img": "media/images/Shrimant-Morya-Sanskrit.jpg",
+        "genre": "Devotional",
+        "source": "media/song/Shrimant-dagdu-sheth-Ganpati.mp3"
+      },
+      {
+        "id":6,
+        "name": "Jai Shree Ram",
+        "artist": ["Ajay-Atul","Manoj Muntashir"],
+        "img": "media/images/Jai-Shri-Ram.jpg",
+        "genre": "Devotional",
+        "source": "media/song/Jai-shree-ram.mp3"
+      },
+     
+      {
+        "id": 7,
+        "name": "Aaoge Tum Kabhi",
+        "artist": "Ustad Rashid Khan",
+        "img": "media/images/jab-we-met.jpg",
+        "genre": "Classical",
+        "source": "media/song/jab-we-met.mp3"
+      },
+     
+      
+      {
+        "id": 8,
+        "name": "Albela Sajan",
+        "artist": ["Ustad Sultan Khan","Shankar Mahadevan","Kavita Krishnamurthy"],
+        "img": "media/images/Albela-Sajan.jpg",
+        "genre": "Classical",
+        "source": "media/song/Albela-Sajan.mp3"
+      }
+    
+    
+  ]
+  
+   
